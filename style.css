@@ -3,6 +3,7 @@ Raleway, Varela, Montserrat, Roboto are
 a few good ones you could use for h1, h2, h3*/
 
 body {
+  background: linear-gradient(to right, #abbaab, #ffffff);
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   background-color: rgb(230, 230, 230);
